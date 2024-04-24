@@ -57,12 +57,10 @@ console.log("age==28 || age2==30, it is false");
 console.log(age==28 || age2==30); //false
 
 // • Test whether an item is in a array
-
 console.log("friends.includes(Talal), it is true");
 console.log(friends.includes("Talal")); //true
 
 // • Test whether an item is not in a array
-
 console.log("!friends.includes(Rafi), it is false");
 console.log(!friends.includes("Rafi")); //false
 
